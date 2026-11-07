@@ -1,0 +1,14 @@
+{
+  "name": "shiza-moderation-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord de modération avec commandes slash et préfixées.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js && node --check commands.js && node --check storage.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "prefix": "-",
+  "sanctions": [],
+  "absences": [],
+  "blacklist": [],
+  "protectedMembers": [],
+  "roleLimits": {
+    "1567262946671726692": 10,
+    "1567262948320346244": 5
+  },
+  "access": {},
+  "settings": {},
+  "snipes": {
+    "1567263275761147912": {
+      "authorId": "1529869685313638581",
+      "content": "https://discord.gg/itamori",
+      "deletedAt": "2026-11-04T21:42:58.158Z"
+    },
+    "1567263298863366226": {
+      "authorId": "1462997934894485519",
+      "content": "-unhide",
+      "deletedAt": "2026-11-05T10:11:14.412Z"
+    }
+  }
+}
